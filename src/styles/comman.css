@@ -1,0 +1,18 @@
+.nav-item {
+    color:white !important
+}
+.navbar img{
+    height: 2rem;
+    width: auto;
+}
+.sideMenu a:hover{
+    background-color: black;
+    color: white;
+}
+.sideMenu{
+    height: 500px;
+    padding-top: 3rem;
+}
+.footerBox{
+    padding: 1rem
+}
